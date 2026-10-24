@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3eaf6"/><stop offset="1" stop-color="#c3d0e6"/></linearGradient>
+    <linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".95"/><stop offset="1" stop-color="#dfe7f5" stop-opacity=".95"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="400.0" cy="180.0" r="136.0" fill="url(#p)" stroke="#9fb1d1" stroke-width="3"/>
+  <path d="M80.0 600 C80.0 372.0 224.0 312.0 400.0 312.0 C576.0 312.0 720.0 372.0 720.0 600 Z" fill="url(#p)" stroke="#9fb1d1" stroke-width="3"/>
+  <path d="M344.0 318.0 L400.0 408.00000000000006 L456.0 318.0" fill="none" stroke="#9fb1d1" stroke-width="3"/>
+  <text x="400.0" y="480.0" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="600" fill="#5d7196">Doctor portrait photo</text><text x="400.0" y="510.0" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="26" fill="#5d7196">800 x 600</text>
+</svg>
